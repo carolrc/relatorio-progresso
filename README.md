@@ -10,6 +10,21 @@ O projeto inclui:
 - Gráficos individuais para horas trabalhadas, bugs corrigidos e tarefas concluídas
 - Gráfico sintetizado com todas as métricas em um único gráfico
 
+## Para acessar o projeto no GitHub e executá-lo, siga as instruções abaixo:
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu_usuario/nome_do_repositorio.git
+
+2. Acesse o diretório do projeto:
+
+bash
+
+cd nome_do_repositorio
+
+3. Execute o código em um ambiente Python com Jupyter Notebook ou Google Colab.
+
 ## Análise Exploratória
 
 A análise exploratória inclui visualização dos dados e descrição estatística.
