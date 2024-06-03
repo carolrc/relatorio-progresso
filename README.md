@@ -13,13 +13,10 @@ O projeto inclui:
 ## Para acessar o projeto no GitHub e executá-lo, siga as instruções abaixo:
 
 1. Clone o repositório:
-2. 
 git clone https://github.com/carolrc/relatorio-progresso
 
-3. Acesse o diretório do projeto:
-
+2. Acesse o diretório do projeto:
 bash
-
 cd relatorio-progresso
 
 3. Execute o código em um ambiente Python com Jupyter Notebook ou Google Colab.
@@ -33,7 +30,7 @@ A análise exploratória inclui visualização dos dados e descrição estatíst
 
 ### Horas trabalhadas por dia
 
-[![Horas Trabalhadas por Dia](https://ibb.co/vP5nHP8)
+[![Horas Trabalhadas por Dia](https://i.ibb.co/VSy4tS8/horas-dia.png)
 
 ### Bugs corrigidos por dia
 
