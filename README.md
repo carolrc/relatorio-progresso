@@ -33,7 +33,7 @@ A análise exploratória inclui visualização dos dados e descrição estatíst
 
 ### Horas trabalhadas por dia
 
-[![Horas Trabalhadas por Dia]([url=https://ibb.co/vP5nHP8][img]https://i.ibb.co/vP5nHP8/horas-dia.png[/img][/url])
+[![Horas Trabalhadas por Dia](https://ibb.co/vP5nHP8)
 
 ### Bugs corrigidos por dia
 
