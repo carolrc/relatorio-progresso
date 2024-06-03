@@ -1,10 +1,10 @@
-# 🎯 Relatório semanal de desenvolvimento de software
+### Relatório semanal de desenvolvimento de software
 
 Este projeto consiste em analisar o progresso semanal de uma equipe de desenvolvimento de software. Os dados incluem horas trabalhadas, bugs corrigidos e tarefas concluídas ao longo de uma semana.
 
-## Visão geral
+## 🎯 Visão geral
 
-📑 O projeto inclui:
+O projeto inclui:
 
 - Análise exploratória dos dados
 - Gráficos individuais para horas trabalhadas, bugs corrigidos e tarefas concluídas
@@ -47,7 +47,7 @@ A análise exploratória inclui visualização dos dados e descrição estatíst
 
 ![Resumo diário](https://i.ibb.co/jkrmqY6/resumo-diario.png)
 
-## Relatório
+## 📑 Relatório
 
 O relatório final inclui o total e a média de horas trabalhadas, bugs corrigidos e tarefas concluídas ao longo da semana.
 
